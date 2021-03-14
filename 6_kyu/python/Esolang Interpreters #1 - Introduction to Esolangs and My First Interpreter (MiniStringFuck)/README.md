@@ -1,6 +1,6 @@
 # Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)
 
-## Small description
+## Small task description
 Implement a custom interpreter for [MiniStringFuck](https://esolangs.org/wiki/MiniStringFuck) programming language.
 
 ## Link to Kata:

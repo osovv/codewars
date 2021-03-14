@@ -1,6 +1,6 @@
 # Esolang Interpreters #2 - Custom Smallfuck Interpreter
 
-### Small description
+### Small task description
 Implement a custom interpreter for [Smallfuck](https://esolangs.org/wiki/Smallfuck) programming language.
 
 ### Link to Kata:
