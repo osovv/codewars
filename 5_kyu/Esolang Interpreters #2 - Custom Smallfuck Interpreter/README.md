@@ -1,10 +1,10 @@
 # Esolang Interpreters #2 - Custom Smallfuck Interpreter
 
 ### Small description
-Implement a custom interpreter for [Smallfuck](https://esolangs.org/wiki/Smallfuck) language.
+Implement a custom interpreter for [Smallfuck](https://esolangs.org/wiki/Smallfuck) programming language.
 
 ### Link to Kata:
-[link](https://www.codewars.com/kata/58678d29dbca9a68d80000d7/python)
+[link](https://www.codewars.com/kata/58678d29dbca9a68d80000d7)
 
 ### Comment
 It was interesting to design bracket matching algorithm.
