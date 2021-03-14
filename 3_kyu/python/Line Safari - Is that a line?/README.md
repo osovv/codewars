@@ -1,6 +1,6 @@
 # Line Safari - Is that a line?
 
-## Small description
+## Small task description
 Write algorithm to validate line in grid.
 
 ## Link to Kata:
