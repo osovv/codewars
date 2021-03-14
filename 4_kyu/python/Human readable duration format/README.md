@@ -1,4 +1,4 @@
-# Esolang Interpreters #2 - Custom Smallfuck Interpreter
+# Human readable duration format
 
 ### Small task description
 Form a string with human readable duration from seconds. \
